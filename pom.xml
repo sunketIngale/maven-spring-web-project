@@ -169,7 +169,7 @@
     <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>devops-training-snapshots</name>
+        <name>val-TravelMate-4730-snapshots</name>
         <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
